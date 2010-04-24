@@ -1,4 +1,5 @@
 #summary Your ideas here!
+#labels Featured
 = Wishlist =
 
 Here is place for your fantasy.
