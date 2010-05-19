@@ -9,7 +9,7 @@
  * Eclipse with the Android SDK
 
 == ToDo ==
- # Download the libary. [http://candroidengine.googlecode.com/files/CandroidGameEngine1.0.1.jar Here]
+ # Download the libary. [http://candroidengine.googlecode.com/files/CandroidGameEngine1.0.2.jar Here]
  # Open eclipse
  # Create an new Android Project
  # Right click on the Project in the Package Explorer
