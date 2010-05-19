@@ -9,14 +9,14 @@
  * Eclipse with the Android SDK
 
 == ToDo ==
- # Download the libary. [http://candroidengine.googlecode.com/files/CandroidGameEngine1.0.2.jar Here]
+ # Download the libary. [http://candroidengine.googlecode.com/files/CandroidGameEngine1.1.0.jar >>here<<]
  # Open eclipse
  # Create an new Android Project
  # Right click on the Project in the Package Explorer
  # Click on Properties
  # Go to Java Build Path
  # Press on Add External JARs...
- # Search and select CandroidGameEngine1.0.2.jar
+ # Search and select CandroidGameEngine1.1.0.jar
  # Press Ok
  # Now you are done to setup your Project and you can start developing your game.
 
