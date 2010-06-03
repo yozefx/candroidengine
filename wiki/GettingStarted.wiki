@@ -19,6 +19,8 @@
  # Search and select CandroidGameEngine1.1.1.jar
  # Press Ok
  # Now you are done to setup your Project and you can start developing your game.
+ # Work through the [http://code.google.com/p/candroidengine/source/browse/#svn/trunk/src/at/bartinger/example Examples 1 - 10] to learn how to use Candroid
+
 
 == Tipps: Getting Started to develop ==
  # Change the "extends Activity" to "extends CandroidActivity" in your main class
