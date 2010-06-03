@@ -16,7 +16,7 @@
  # Click on Properties
  # Go to Java Build Path
  # Press on Add External JARs...
- # Search and select CandroidGameEngine1.1.0.jar
+ # Search and select CandroidGameEngine1.1.1.jar
  # Press Ok
  # Now you are done to setup your Project and you can start developing your game.
 
